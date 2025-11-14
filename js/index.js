@@ -54,3 +54,9 @@ function halve(number) {
 
   return number / 2;
 }
+
+function myName (a) {
+  return console.log (a)
+  return console.log ("become") 
+}
+ myName (1)
